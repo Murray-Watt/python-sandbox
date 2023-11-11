@@ -1,0 +1,6 @@
+1
+11
+1
+
+
+This file is can be used to replace console input by specify it in the run configuration
